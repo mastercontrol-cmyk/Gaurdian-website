@@ -1,4 +1,4 @@
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 import { ScanFace, Fingerprint, Activity } from "lucide-react";
 
 export function HumanLayer() {
